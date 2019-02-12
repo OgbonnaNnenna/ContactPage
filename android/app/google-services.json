@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "148156788098",
+    "firebase_url": "https://contactpage-455d7.firebaseio.com",
+    "project_id": "contactpage-455d7",
+    "storage_bucket": "contactpage-455d7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:148156788098:android:48fac0886c59322d",
+        "android_client_info": {
+          "package_name": "com.nnenna.contactpage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "148156788098-emo5cgkdjsgg262lr8532b9m0a6foplg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5KKKa5ht2FT7MrTU7dwfDeuMDN77OPXQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
